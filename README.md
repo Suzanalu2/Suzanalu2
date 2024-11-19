@@ -6,13 +6,16 @@ Comecei a desenvolver sites em 2007, combinando design gráfico e web design par
 
 <div style="display: inline-block; background-color: #E34F26; color: #FFFFFF; font-family: sans-serif; font-size: 14px; padding: 5px 10px; border-radius: 5px;">
     HTML5
-</div>Apos 
+</div>
+
 <div style="display: inline-block; background-color: #1572B6; color: #FFFFFF; font-family: sans-serif; font-size: 14px; padding: 5px 10px; border-radius: 5px;">
     CSS
 </div>
+
 <div style="display: inline-block; background: linear-gradient(90deg, #FFD343, #306998); color: #FFFFFF; font-family: sans-serif; font-size: 14px; padding: 5px 10px; border-radius: 5px;">
     Python
 </div>
+
 
 ### Soft Skills
 
