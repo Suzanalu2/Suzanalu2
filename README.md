@@ -33,6 +33,16 @@ Comecei a desenvolver sites em 2007, combinando design gráfico e web design par
 ### Soft Skills
 
 
+- Comunicação
+- Trabalho em equipe
+- Adaptabilidade
+- Resolução de problemas
+- Liderança
+- Criatividade
+- Gestão de tempo
+- Inteligência Emocional
+
+
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzana-paiva-rj/)
