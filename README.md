@@ -35,5 +35,4 @@ Comecei a desenvolver sites em 2007, combinando design gráfico e web design par
 
 ### Conecte-se comigo
 
-(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzana-paiva-rj)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzana-paiva-rj/)
