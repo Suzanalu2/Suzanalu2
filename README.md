@@ -1,6 +1,6 @@
 ## Sou a Suzana 
 
-Comecei a desenvolver sites em 2007, combinando design gráfico e web design para criar soluções digitais. Após uma pausa, voltei a me dedicar à área e estou agora me especializando em programação. Estou aprimorando minhas habilidades em HTML, CSS, Python e ferramentas modernas. Minha meta é unir criatividade e tecnologia para entregar experiências digitais completas e funcionais.  
+Comecei a desenvolver sites em 2007, combinando design gráfico e web design para criar soluções digitais. Após uma pausa, voltei a me dedicar à área e agora estou me especializando em programação. Minha meta é unir criatividade e tecnologia para entregar experiências digitais completas e funcionais.  
 
 ### Hard Skils
 
@@ -20,13 +20,7 @@ Comecei a desenvolver sites em 2007, combinando design gráfico e web design par
   <!-- SQL Server -->
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-
-  <!-- Vue.js -->
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" />
-
-  <!-- Bootstrap -->
+   <!-- Bootstrap -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
